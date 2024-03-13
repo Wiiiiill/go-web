@@ -1,4 +1,4 @@
-module github.com/gin-gonic/gin
+module github.com/Wiiiiill/go-web
 
 go 1.20
 
